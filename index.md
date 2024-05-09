@@ -14,7 +14,7 @@
     <h1></h1>
     <img src="https://jhustata.github.io/basic/_images/931e5210b5af8aebf9a0ddf56abccf41d6a44d371877c6f1d6db6a58d81cef4d.png" alt="Your Image">
     <p style="font-size: 80px;">Inorganic: \( \Delta\text{Energy} \)</p>
-    <p>Organic: Adaptation</p>
-    <p>AGI: Compute/ \( \Delta\text{Energy} \times \) Exponential/Adaptation</p>
+    <p style="font-size: 80px;">Organic: Adaptation</p>
+    <p style="font-size: 80px;">AGI: Compute/ \( \Delta\text{Energy} \times \) Exponential/Adaptation</p>
 </body>
 </html>
